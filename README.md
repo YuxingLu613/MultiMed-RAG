@@ -263,4 +263,3 @@ For questions or issues, please open a GitHub issue or contact the maintainers.
 ---
 
 **Note**: This system is for research and educational purposes only. Always consult qualified healthcare professionals for medical advice.
-# MultiMed-RAG
